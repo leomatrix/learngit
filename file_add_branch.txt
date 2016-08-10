@@ -1,1 +1,1 @@
-vim test
+vim "conflict point" test
